@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/playmenteditor/static/css/main.3cc8a99b.chunk.css",
+    "main.js": "/playmenteditor/static/js/main.fd0db05d.chunk.js",
+    "main.js.map": "/playmenteditor/static/js/main.fd0db05d.chunk.js.map",
+    "runtime-main.js": "/playmenteditor/static/js/runtime-main.1049b2a5.js",
+    "runtime-main.js.map": "/playmenteditor/static/js/runtime-main.1049b2a5.js.map",
+    "static/js/2.476dad79.chunk.js": "/playmenteditor/static/js/2.476dad79.chunk.js",
+    "static/js/2.476dad79.chunk.js.map": "/playmenteditor/static/js/2.476dad79.chunk.js.map",
+    "static/js/3.987c2a73.chunk.js": "/playmenteditor/static/js/3.987c2a73.chunk.js",
+    "static/js/3.987c2a73.chunk.js.map": "/playmenteditor/static/js/3.987c2a73.chunk.js.map",
+    "index.html": "/playmenteditor/index.html",
+    "static/css/main.3cc8a99b.chunk.css.map": "/playmenteditor/static/css/main.3cc8a99b.chunk.css.map",
+    "static/js/2.476dad79.chunk.js.LICENSE.txt": "/playmenteditor/static/js/2.476dad79.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1049b2a5.js",
+    "static/js/2.476dad79.chunk.js",
+    "static/css/main.3cc8a99b.chunk.css",
+    "static/js/main.fd0db05d.chunk.js"
+  ]
+}
